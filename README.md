@@ -3,7 +3,7 @@
 - This is an activity from Angela Yu's "The Complete 2024 Web Development Bootcamp"
 
 ## Goal Image
-![alt text](goal.png)
+![alt text](./goal.png)
 
 ## HTML File
-- [index.html](index.html)# motivational-poster-website
+- [index.html](./index.html) motivational-poster-website
